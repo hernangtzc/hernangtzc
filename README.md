@@ -1,14 +1,28 @@
-### Hola, soy Hernan Gutierrez 👋
-**Full Stack Developer con ADN Financiero**
+### Hola, soy [Tu Nombre] 👋
 
-Soy un desarrollador especializado en el stack **PERN** con un trasfondo único en la industria de **Seguros y Banca**. Mi objetivo es crear software robusto para el sector Fintech.
+**Profesional en Transición al Desarrollo Web | Ex-Especialista en Banca y Seguros**
 
-- 🔭 Actualmente trabajando en: **InsurCore** (Sistema de Gestión de Pólizas).
-- 🌱 Aprendiendo: **Arquitectura de Microservicios y Ciberseguridad**.
-- 💡 Mi superpoder: Traduzco "necesidades de negocio complejas" a "arquitectura de base de datos eficiente".
+Soy un profesional con **+11 años de trayectoria en el sector financiero** reinventándome como Desarrollador de Software. Mi meta es combinar mi profunda experiencia en lógica de negocio (riesgos, pólizas, banca) con el stack tecnológico moderno.
 
-**🛠 Tech Stack**
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+- 🔭 Actualmente diseñando la arquitectura de: **InsurCore** (Un futuro sistema SAAS de gestión de pólizas).
+- 🌱 Aprendiendo intensivamente: **JavaScript Moderno (ES6+), React.js y Lógica de Programación**.
+- 💡 Mi ventaja competitiva: No solo escribo código; entiendo el problema de negocio que el código debe resolver.
+
+---
+
+**🛠 Tech Stack Actual & En Aprendizaje**
+
+*Lo que ya manejo:*
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+*Mi foco actual (Cargando...):*
+![JavaScript](https://img.shields.io/badge/-JavaScript%20(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React.js%20(Pronto)-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+---
+Visitor count badge (opcional)
+![Visitor Count](https://profile-counter.glitch.me/[TuUsuarioDeGithub]/count.svg)
