@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hola, soy Hernan Gutierrez 👋
+**Full Stack Developer con ADN Financiero**
 
-<!--
-**hernangtzc/hernangtzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador especializado en el stack **PERN** con un trasfondo único en la industria de **Seguros y Banca**. Mi objetivo es crear software robusto para el sector Fintech.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente trabajando en: **InsurCore** (Sistema de Gestión de Pólizas).
+- 🌱 Aprendiendo: **Arquitectura de Microservicios y Ciberseguridad**.
+- 💡 Mi superpoder: Traduzco "necesidades de negocio complejas" a "arquitectura de base de datos eficiente".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠 Tech Stack**
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
