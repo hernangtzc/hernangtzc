@@ -24,5 +24,3 @@ Soy un profesional con **+11 años de trayectoria en el sector financiero** rein
 ![React](https://img.shields.io/badge/-React.js%20(Pronto)-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
-Visitor count badge (opcional)
-![Visitor Count](https://profile-counter.glitch.me/github.com/hernangtzc/count.svg)
