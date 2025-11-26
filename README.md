@@ -25,4 +25,4 @@ Soy un profesional con **+11 años de trayectoria en el sector financiero** rein
 
 ---
 Visitor count badge (opcional)
-![Visitor Count](https://profile-counter.glitch.me/hernangtzc/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/[hernangtzc](https://github.com/hernangtzc)/count.svg)
